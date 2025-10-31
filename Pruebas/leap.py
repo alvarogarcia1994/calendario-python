@@ -1,3 +1,4 @@
+#Function to determinate if a year is leap or not
 def isLeap(year):
     return year % 400 == 0 or (year % 4 == 0 and year % 100 != 0)
 
