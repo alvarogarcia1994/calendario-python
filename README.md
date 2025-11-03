@@ -20,7 +20,7 @@
 |-----------------------------|---------------------------|
 | `isLeap(year)`              | Determina si un año es bisiesto / Determines leap years |
 | `calculateDaysPerMonth()`   | Devuelve los días del mes / Returns number of days in month |
-| `calculateDayOfWeek()`      | Calcula el día de la semana / Computes weekday using Zeller |
+| `calculateDayOfWeek()`      | Calcula el día de la semana mediante la congruencia de Zeller / Computes weekday using Zeller's congruence |
 | `showMonthCalendar()`       | Imprime el calendario / Prints the formatted calendar |
 
 ---
